@@ -1,6 +1,6 @@
 # Golang Update Script
 
-## go-version-<user>.sh
+## go-version-user.sh
 This script just detects whether GOLANG needs an update.
 
 ## go-version-root.sh
